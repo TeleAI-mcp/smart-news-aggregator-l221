@@ -1,2 +1,3 @@
-# smart-news-aggregator-l221
-Automated issue comment bot repository
+# Smart News Aggregator L221
+
+Automated issue comment bot repository.
